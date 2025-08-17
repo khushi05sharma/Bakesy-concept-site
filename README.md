@@ -8,7 +8,7 @@ This is a **practice project** where I designed both the **wireframe** and the *
 ## Project Overview 📝
 - **Type:** UI/UX design (practice project)  
 - **Tools Used:** Figma (Wireframe + UI)  
-- **Theme:** A playful pink–purple palette that feels sweet, modern, and on-brand.  
+- **Theme:** A lively, candy-tinted aesthetic designed to tempt users at first glance.  
 - **Goal:** Create a fun yet professional online bakery experience that feels inviting and easy to explore.  
 
 ---
@@ -32,7 +32,12 @@ This is a **practice project** where I designed both the **wireframe** and the *
 ---
 
 ## Preview  👀  
-*(Add PNG screenshots of both wireframe and final design here)*  
+### Wireframe  
+![Bakesy Wireframe](bakery%20Wireframe.png)  
+
+### Final UI Design  
+![Bakesy Final Design](bakery%20page%20img.png)  
+
 
 ---
 
